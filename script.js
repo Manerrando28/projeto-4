@@ -3,3 +3,4 @@ function calc(){
     let num2=parseInt(document.getElementById('num2').value);
     document.getElementById('resultado').innerHTML=num1 * num2
 }
+
